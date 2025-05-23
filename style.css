@@ -80,7 +80,7 @@ button {
     cursor: pointer;
 }
 
-/* Section2 Style */
+/* Section2 Styling */
 
 .section2 {
     height: 500px;
@@ -124,7 +124,7 @@ button {
     margin: 8px 0;
 }
 
-/* Section3 Style */
+/* Section3 Styling */
 
 .section3 {
     height: 500px;
@@ -149,7 +149,7 @@ button {
     margin-left: 525px;
 }
 
-/* Section4 Style */
+/* Section4 Styling */
 
 .section4 {
     height: 350px;
@@ -185,4 +185,16 @@ button {
 
 .call-text {
     color: #E5E7EB;
+}
+
+/* Footer Styling */
+
+.footer {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 35px;
+    font-size: 20px;
 }
