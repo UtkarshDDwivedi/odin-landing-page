@@ -17,7 +17,8 @@ ul {
 
 ul li a{
     text-decoration: none;
-    color: #F9FAF8;
+    color: #E5E7EB;
+    font-size: 18px;
 }
 
 .header {
@@ -32,3 +33,50 @@ ul li a{
     font-size: 24px;
     font-weight: 600;
 }
+
+/* Section1 Styling */
+
+.section1 {
+    height: 500px;
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    max-width: 500px;
+}
+
+.content h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.content p {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+img{
+    width: 350px;
+    border-radius: 19px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 32px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
