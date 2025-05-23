@@ -124,3 +124,27 @@ button {
     margin: 8px 0;
 }
 
+/* Section3 Style */
+
+.section3 {
+    height: 500px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#quote {
+    width: 800px;
+    font-weight: 300;
+    font-size: 36px;
+}
+
+#author {
+    font-size: 24px;
+    font-weight: 800;
+    margin-left: 525px;
+}
